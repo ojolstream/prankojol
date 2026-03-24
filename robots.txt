@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://link.ojolstream.workers.dev/sitemap.xml
+Sitemap: https://ojolstream.github.io/prankojol/sitemap.xml
